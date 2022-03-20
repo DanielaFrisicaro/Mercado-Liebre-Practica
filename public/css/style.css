@@ -1,9 +1,19 @@
 body {
+  
+font-family: 'Roboto', sans-serif;
+}
+
+header{
     background-color: #EAC926;
-    font-family: 'Roboto', sans-serif;
+
 }
 h3 {
     font-size: 24px;
+}
+h4{
+   font-size: 20px;
+   font-weight: bold;
+   
 }
 .descuento {
     font-size: 16px;
@@ -16,4 +26,84 @@ h3 {
 }
 .cuerpos-de-texto{
     font-size: 12px ;
+}
+
+.top-header p{
+    text-align: center;
+}
+
+header nav ul li{
+list-style-type: none;
+}
+header nav ul a{
+  text-decoration: none;
+  color: black;
+    }
+
+header nav ul{
+        padding: 10px 0;
+        
+    }
+
+header .button-container{
+        text-align: center;
+        padding-bottom: 10px;
+            }
+
+
+header .button-container button.burger-menu {
+
+border-radius: 5px;
+background-color: #03264c;
+color: white;
+padding: 10px;
+font-size: 20px;
+position: relative;
+
+    }
+
+header button.burger-menu i {
+    
+}
+
+
+footer .button-container{
+    text-align: center;
+    padding-bottom: 10px;
+  
+        }  
+footer .button-container button.credit{
+border-radius: 5px;
+background-color: #1411cf;
+color: white;
+padding: 10px;
+font-size: 20px;
+                }
+footer .button-container button.envio{
+border-radius: 5px;
+background-color: #1411cf;
+color: white;
+padding: 10px;
+font-size: 20px;
+}
+
+                        
+footer .button-container button.seguridad{
+
+border-radius: 5px;
+background-color: #1411cf;
+color: white;
+padding: 10px;
+font-size: 20px;
+}
+
+
+footer button.credit i {
+           
+}
+footer button.envio i {
+
+}
+footer button.seguridad i{
+
 }
