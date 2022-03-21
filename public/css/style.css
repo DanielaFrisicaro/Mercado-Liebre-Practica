@@ -70,40 +70,6 @@ header button.burger-menu i {
 footer .button-container{
     text-align: center;
     padding-bottom: 10px;
-  
+    font-size: 2em;
+    color: #03264c;
         }  
-footer .button-container button.credit{
-border-radius: 5px;
-background-color: #1411cf;
-color: white;
-padding: 10px;
-font-size: 20px;
-                }
-footer .button-container button.envio{
-border-radius: 5px;
-background-color: #1411cf;
-color: white;
-padding: 10px;
-font-size: 20px;
-}
-
-                        
-footer .button-container button.seguridad{
-
-border-radius: 5px;
-background-color: #1411cf;
-color: white;
-padding: 10px;
-font-size: 20px;
-}
-
-
-footer button.credit i {
-           
-}
-footer button.envio i {
-
-}
-footer button.seguridad i{
-
-}
